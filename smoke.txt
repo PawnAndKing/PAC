@@ -1,0 +1,36 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 10,
+						["UniqueID"] = "3192665853",
+						["FireDelay"] = 0.15,
+						["DieTime"] = 1.9,
+						["EndSize"] = 7.5,
+						["ClassName"] = "particles",
+						["Position"] = Vector(0, -3.5751953125, 0.00146484375),
+						["NumberParticles"] = 2,
+						["Material"] = "particle/smokesprites_0001",
+						["Angles"] = Angle(-0.00019807550415862, -76.642227172852, 0.00011547288886504),
+						["StartSize"] = 1,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "1690379916",
+				["ClassName"] = "entity",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2295936826",
+		["EditorExpand"] = true,
+	},
+},
